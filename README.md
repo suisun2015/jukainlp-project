@@ -2,7 +2,7 @@
 
 JukaiNLP Annotation Tool | React/Redux + Material UI
 
-![JukaiNLP snapshot](https://bytebucket.org/suisun_312/new_jukainlp/raw/cb4b3f211ef6e651c9f5f654f20b574bf2750b86/screenshot.png?token=b7cab5111a86e9b174ee923a967bfba63ce8ddc4)
+![JukaiNLP snapshot](https://raw.githubusercontent.com/suisun2015/jukainlp-project/master/screenshot.png)
 
 ---
 
